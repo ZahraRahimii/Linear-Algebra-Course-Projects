@@ -18,7 +18,7 @@ The diagram shows the price of Bitcoin every 2 hours from the end of 2020 to the
 The results of denoising would be like this:
 
 <pre>   
-`λ=10; not denoised`                   `λ=100; well denoised`                 `λ=10000; too denoised` 
+`λ=10; not denoised`                               `λ=100; well denoised`                           `λ=10000; too denoised` 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93929227/204269434-3ecc545f-9d01-4048-85f6-78bec26e59b2.png">
