@@ -1,4 +1,4 @@
-# Linear_Algebra_Course_Projects
+# Linear Algebra Course Projects
 Here is the explanation about three projects of Linear Algebra course:
 * LU decomposition
 * Denoising the signal using least-square 
