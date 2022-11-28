@@ -24,7 +24,7 @@ The results of denoising would be like this:
 <img src="https://user-images.githubusercontent.com/93929227/204269434-3ecc545f-9d01-4048-85f6-78bec26e59b2.png">
 <!-- <img src="https://user-images.githubusercontent.com/93929227/204267777-e6fca258-d508-4316-8eaa-6407d75134c4.png"> -->
 <p/>
-<pre/>
+</pre>
 
 <!-- `λ=100; well denoised`  -->
 <!-- <p align="center"> -->
@@ -48,6 +48,7 @@ We can decompose a given image into the three color channels red, green and blue
 <img src="https://user-images.githubusercontent.com/93929227/204269434-3ecc545f-9d01-4048-85f6-78bec26e59b2.png">
 <!-- <img src="https://user-images.githubusercontent.com/93929227/204267777-e6fca258-d508-4316-8eaa-6407d75134c4.png"> -->
 <p/>
-<pre/>
-![Uploading Untitled2.png…]()
+</pre>
+
+![Uploading image.png…]()
 
