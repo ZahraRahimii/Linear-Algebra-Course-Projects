@@ -12,3 +12,8 @@ Now we want to solve a large number of equations in the form of Ax=b in which A 
 The diagram shows the price of Bitcoin every 2 hours from the end of 2020 to the 20th of May. Suppose that the vector 𝒚 is the vector of bitcoin price values, the unknown vector 𝒙 is the noise-free vector of the price we are looking for, and the vector 𝒗 is the uncertain noise vector. That is, we have: ${y=lx+v}$
 
 ![Uploading image.png…]()
+
+`λ=10`
+The results of denoising would be like this:
+
+
