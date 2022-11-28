@@ -16,14 +16,18 @@ The diagram shows the price of Bitcoin every 2 hours from the end of 2020 to the
 <p/>
 The results of denoising would be like this:
 
-`λ=10; not denoised` 
-  <p align="center">
-<img src="https://user-images.githubusercontent.com/93929227/204267777-e6fca258-d508-4316-8eaa-6407d75134c4.png">
-<p/>
-  
-`λ=100; well denoised` 
+<pre> 
+`λ=10; not denoised`    `λ=100; well denoised`    `λ=10000; too denoised` 
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/93929227/204267865-b140a6bf-d0e2-44ce-a081-c503d3c4a847.png">
+<img src="https://user-images.githubusercontent.com/93929227/204269434-3ecc545f-9d01-4048-85f6-78bec26e59b2.png">
+<!-- <img src="https://user-images.githubusercontent.com/93929227/204267777-e6fca258-d508-4316-8eaa-6407d75134c4.png"> -->
+<p/>
+<pre/>
+
+<!-- `λ=100; well denoised`  -->
+<!-- <p align="center"> -->
+<!-- <img src="https://user-images.githubusercontent.com/93929227/204267865-b140a6bf-d0e2-44ce-a081-c503d3c4a847.png">
 <p/>
 
 `λ=10000; too denoised` 
@@ -31,3 +35,4 @@ The results of denoising would be like this:
 <img src="https://user-images.githubusercontent.com/93929227/204267971-2df00093-b2a8-4f0a-9953-9055a2113f7e.png">
 <p/>
 
+ -->
