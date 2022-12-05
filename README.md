@@ -18,7 +18,7 @@ The diagram shows the price of Bitcoin every 2 hours from the end of 2020 to the
 The results of denoising would be like this:
 
 <pre>   
-             λ=10; not denoised                           λ=100; well denoised                         λ=10000; too denoised 
+             λ=10; not denoised                  λ=100; well denoised                λ=10000; too denoised 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93929227/204269434-3ecc545f-9d01-4048-85f6-78bec26e59b2.png">
@@ -42,7 +42,7 @@ The results of denoising would be like this:
 We can decompose a given image into the three color channels red, green and blue. Each channel can be represented as a (m × n)‑matrix with values ranging from 0 to 255. We will now compress the matrix A representing one of the channels. To do this, we compute an approximation to the matrix A that takes only a fraction of the space to store. Now here's the great thing about SVD: the data in the matrices U, Σ and V is sorted by how much it contributes to the matrix A in the product. That enables us to get quite a good approximation by simply considering only the k-terms of the first important parts of the matrices
 
 <pre>   
-                k=50;                                           k=250;                                         k=750;
+                k=50;                               k=250;                               k=750;
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93929227/204275517-6f61054a-babc-4c6e-ae8d-01c84ba60f0e.png">
