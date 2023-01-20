@@ -45,7 +45,7 @@ We can decompose a given image into the three color channels red, green and blue
                 k=50;                                           k=250;                                      k=750;
 
 <p align="center">
-
+sfsf
 <img src="https://user-images.githubusercontent.com/93929227/204275517-6f61054a-babc-4c6e-ae8d-01c84ba60f0e.png">
 <!-- <img src="https://user-images.githubusercontent.com/93929227/204267777-e6fca258-d508-4316-8eaa-6407d75134c4.png"> -->
 <!-- ![Untitled2](https://user-images.githubusercontent.com/93929227/204275517-6f61054a-babc-4c6e-ae8d-01c84ba60f0e.png) -->
